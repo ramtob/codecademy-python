@@ -1,0 +1,1 @@
+jupyter nbconvert --to html life_expectancy_gdp.ipynb --output-dir ../docs --template basic
